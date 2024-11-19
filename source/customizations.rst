@@ -1279,7 +1279,7 @@ However, some sites may want to disable this feature because they do not allow s
 nodes.
 
 To disable this, simply set the environment variable in the dashboards' env file
-``/etc/ood/config/apps/dashboard/env`` to a false value (0, false, off).
+``/etc/ood/config/apps/dashboard/env`` to a falsy value (0, false, off).
 
 .. code:: sh
 
